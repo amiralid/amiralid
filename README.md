@@ -1,4 +1,5 @@
-# AMIRALI DAVARY
+# <span style="color:blue">AMIRALI DAVARY</span>
+
 
 ### I am a **"Data Analyst / Hydrologist"** with 4+ years of research and experience in hydrology and hydraulic engineering. Currently in the process of completing a second Master's degree at the University of Milan studying ***Data Science and Economics***.
 
