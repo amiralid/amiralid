@@ -1,7 +1,7 @@
 # <span style="color:blue">AMIRALI DAVARY</span>
 
 
-**I am a ***"Remote Sensing Specialist"*** with 4+ years of research and experience in crop monitoring and hydrology. Currently in the process of completing a second Master's in Data Science at the University of Milan**.
+**I am a ***"Remote Sensing Specialist"*** with 4+ years of research and professional experience in hydrology, crop monitoring and change detection for natural resources. Currently in the process of completing a second Master's in Data Science at the University of Milan**.
 
 ### My Specialties
 - Machine learning and data-driven modeling
