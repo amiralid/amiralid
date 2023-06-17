@@ -1,11 +1,11 @@
 # <span style="color:blue">AMIRALI DAVARY</span>
 
 
-**I am a ***"Data Analyst / Hydrologist"*** with 4+ years of research and experience in hydrology and hydraulic engineering. Currently in the process of completing a second Master's degree at the University of Milan studying Data Science and Economics**.
+**I am a ***"Remote Sensing Specialist"*** with 4+ years of research and experience in crop monitoring and hydrology. Currently in the process of completing a second Master's in Data Science at the University of Milan**.
 
 ### My Specialties
-- Machine Learning
-- Data Analysis
-- Geographical Information Systems
-- Remote sensing techniques and Image Processing
+- Machine learning and data-driven modeling
+- Remote sensing techniques and image processing
+- Data analysis and visualization
+- Geographical information systems
 - Hydraulic and hydrologic modeling
