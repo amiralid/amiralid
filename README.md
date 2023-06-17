@@ -11,10 +11,10 @@
 - Hydraulic and hydrologic modeling
 
 ### Skills
+- Google Earth Engine (GEE), ENVI, IDL
 - Python, R
 - MATLAB
 - JavaScript
 - SQL and NoSQL
 - Scikit-Learn
 - ArcGIS, QGIS
-- Google Earth Engine (GEE), ENVI, IDL
