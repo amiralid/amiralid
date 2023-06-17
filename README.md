@@ -9,3 +9,12 @@
 - Data analysis and visualization
 - Geographical information systems
 - Hydraulic and hydrologic modeling
+
+### Skills
+- Python, R
+- MATLAB
+- JavaScript
+- SQL and NoSQL
+- Scikit-Learn
+- ArcGIS, QGIS
+- Google Earth Engine (GEE), ENVI, IDL
