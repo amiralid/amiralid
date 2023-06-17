@@ -15,6 +15,6 @@
 - Python, R
 - MATLAB
 - JavaScript
-- SQL and NoSQL
-- Scikit-Learn
+- SQL (SSMS, PostgreSQL)
+- noSQL (MongoDB)
 - ArcGIS, QGIS
