@@ -12,9 +12,9 @@
 
 ### Skills
 - Google Earth Engine (GEE), ENVI, IDL
+- ArcGIS, QGIS
 - Python, R
 - MATLAB
 - JavaScript
 - SQL (SSMS, PostgreSQL)
 - noSQL (MongoDB)
-- ArcGIS, QGIS
