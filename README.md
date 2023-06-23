@@ -1,16 +1,16 @@
-# <span style="color:blue">AMIRALI DAVARY</span>
+# <font color="blue">AMIRALI DAVARY</font>
 
 
 **I am a ***"Remote Sensing Specialist"*** with 4+ years of research and professional experience in hydrology, crop monitoring and change detection for natural resources. Currently in the process of completing a second Master's in Data Science at the University of Milan**.
 
-### My Specialties
+## <font color="green">My Specialties</font>
 - Machine learning and data-driven modeling
 - Remote sensing techniques and image processing
 - Data analysis and visualization
 - Geographical information systems
 - Hydraulic and hydrologic modeling
 
-### Skills
+## <font color="red">Skills</font>
 - Google Earth Engine (GEE), ENVI, IDL
 - ArcGIS, QGIS
 - Python, R
