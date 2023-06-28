@@ -9,7 +9,7 @@
 
 ## <font color="red">Skills</font>
 - Google Earth Engine (GEE), ENVI, IDL
-- ArcGIS, QGIS
+- ArcGIS, QGIS, GDAL
 - Python, R, MATLAB, JavaScript
 - SQL (SSMS, PostgreSQL)
 - noSQL (MongoDB)
